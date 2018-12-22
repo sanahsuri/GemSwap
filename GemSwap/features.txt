@@ -1,0 +1,12 @@
+Features implemented:
+1. Stellar (Star object)
+2. Lovely (Heart object)
+3. Heartbeat (Heart object with animated material)
+4. Gyro (Star object with rotation)
+5. Swap
+6. Legal
+7. Bomb
+8. Quake
+9. Three-in-a-line
+10. Dramatic exit
+11. Turn the tables
